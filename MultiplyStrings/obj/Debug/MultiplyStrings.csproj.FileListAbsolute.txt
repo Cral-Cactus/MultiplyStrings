@@ -1,0 +1,8 @@
+C:\Marian - 9D\Strings\MultiplyStrings\bin\Debug\MultiplyStrings.exe.config
+C:\Marian - 9D\Strings\MultiplyStrings\bin\Debug\MultiplyStrings.exe
+C:\Marian - 9D\Strings\MultiplyStrings\bin\Debug\MultiplyStrings.pdb
+C:\Marian - 9D\Strings\MultiplyStrings\obj\Debug\MultiplyStrings.csproj.AssemblyReference.cache
+C:\Marian - 9D\Strings\MultiplyStrings\obj\Debug\MultiplyStrings.csproj.SuggestedBindingRedirects.cache
+C:\Marian - 9D\Strings\MultiplyStrings\obj\Debug\MultiplyStrings.csproj.CoreCompileInputs.cache
+C:\Marian - 9D\Strings\MultiplyStrings\obj\Debug\MultiplyStrings.exe
+C:\Marian - 9D\Strings\MultiplyStrings\obj\Debug\MultiplyStrings.pdb
